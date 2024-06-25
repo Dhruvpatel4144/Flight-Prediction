@@ -1,4 +1,4 @@
-# Flight=Price-Prediction
+# Flight-Price-Prediction
 
 # In this Project, we are going analysis the price of the flight based on differnt catogorical data.
 
